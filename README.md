@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 <!-- END -->
 
