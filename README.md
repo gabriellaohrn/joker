@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
