@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
