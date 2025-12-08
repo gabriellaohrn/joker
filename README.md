@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
