@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
