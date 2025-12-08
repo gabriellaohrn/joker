@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
