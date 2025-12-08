@@ -14,3 +14,42 @@ jobs:
       - name: Run joker.py
         run: python joker.py
         
+            - name: Add, commit, and push
+  # You may pin to the exact commit or the version.
+  # uses: actions4git/add-commit-push@2119cc12fc9e451198b0d1c27fbae6fd1b134135
+  uses: actions4git/add-commit-push@v1.0.0
+  with:
+    # The path to the repository root folder to perform the Git operations in. This defaults to the current working directory ('.'). Change this to a subfolder if you are using a different folder other than the default 'github.workspace' for your Git repository.
+
+    path: # optional, default is .
+    # Additional path specifiers to be passed to 'git add'. These can be files, folders, globs, or even some fancy Git pathspec things such as ':!ignoreme.txt'. Check out the CSS-Tricks Git Pathspecs and How to Use Them article for the highlights of Git pathspecs. If this input is not specified, 'git add --all' will be used instead. Specifying '.' has slightly different behaviour from '--all'.
+
+    add-pathspec: # optional
+    # Whether or not to use the '--force' flag when performing the 'git add' operation. Use this if you really want to add something but it's in your '.gitignore'. This can be useful if you ever need to commit build artifacts to Git that are normally ignored by your '.gitignore'. Defaults to 'false'.
+
+    add-force: # optional
+    # A 'Name Here <emailhere@example.org>' AiO author name & email string. This is a shortcut alternative to the independant 'commit-author-name' and 'commit-author-email' options that are also available. This defaults to @github-actions[bot]. You can set this to the special value 'github-actions' to use the @github-actions[bot] user as the author, or the special 'me' value to use the current 'github.actor' user as the author. Note that this is different from the 'commit-committer'. The author of a commit is who wrote the thing and the committer is who committed it to Git. It's recommended to leave this as the default.
+
+    commit-author: # optional, default is github-actions[bot]
+    # The name of the author to associate with the commit. Should be left unspecified if 'commit-author' is specified.
+
+    commit-author-name: # optional
+    # The email address of the author to associate with the commit. Should be left unspecified if 'commit-author' is specified.
+
+    commit-author-email: # optional
+    # A 'Name Here <emailhere@example.org>' AiO author name & email string. This input is a shortcut for the 'commit-committer-name' and 'commit-committer-email' inputs that can also be individually specified. You can set this to the special value 'github-actions' to use the @github-actions[bot] user as the committer, or the special 'me' value to use the current 'github.actor' user as the committer. If this input is unspecified, the committer defaults to the author.
+
+    commit-committer: # optional
+    # The name of the committer to associate with the commit. Should be left unspecified if 'commit-committer' is specified.
+
+    commit-committer-name: # optional
+    # The email address of the committer to associate with the commit. Should be left unspecified if 'commit-committer' is specified.
+
+    commit-committer-email: # optional
+    # The '--message' parameter to use for the commit. This can be a multiline string if you want to specify a title and body. The default is 'Automated changes'.
+
+    commit-message: # optional, default is Automated changes
+    # Whether or not to use the '--force' parameter when doing the 'git push'. Defaults to 'false'.
+
+    push-force: # optional
+          
