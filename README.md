@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
