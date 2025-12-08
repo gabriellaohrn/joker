@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
