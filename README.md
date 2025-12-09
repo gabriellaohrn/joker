@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
