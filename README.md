@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
