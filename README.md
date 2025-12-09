@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 <!-- END -->
 
