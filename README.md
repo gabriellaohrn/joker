@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
