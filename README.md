@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
