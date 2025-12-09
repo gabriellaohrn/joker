@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
