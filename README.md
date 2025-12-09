@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
