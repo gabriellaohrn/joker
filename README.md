@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
