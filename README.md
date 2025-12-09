@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
