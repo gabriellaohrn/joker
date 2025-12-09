@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
