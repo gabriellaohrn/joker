@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
