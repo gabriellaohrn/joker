@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 <!-- END -->
 
