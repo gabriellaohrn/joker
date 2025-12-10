@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
