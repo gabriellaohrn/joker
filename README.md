@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
