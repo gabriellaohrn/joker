@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Why can't eggs have love? They will break up too soon.
 
 <!-- END -->
 
