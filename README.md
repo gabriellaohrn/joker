@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
