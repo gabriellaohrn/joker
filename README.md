@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
