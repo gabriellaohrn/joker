@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
