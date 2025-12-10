@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
