@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
