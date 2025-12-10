@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
