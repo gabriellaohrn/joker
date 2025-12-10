@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
