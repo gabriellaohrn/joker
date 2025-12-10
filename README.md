@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
