@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 <!-- END -->
 
