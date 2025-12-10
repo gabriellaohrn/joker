@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 <!-- END -->
 
