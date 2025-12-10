@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
