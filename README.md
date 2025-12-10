@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
