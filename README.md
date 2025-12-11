@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
