@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
