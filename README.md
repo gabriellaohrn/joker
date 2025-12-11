@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
