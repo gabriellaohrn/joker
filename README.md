@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
