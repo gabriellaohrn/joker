@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
