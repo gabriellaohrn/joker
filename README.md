@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
