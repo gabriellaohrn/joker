@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 <!-- END -->
 
