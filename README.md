@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
 
 <!-- END -->
 
