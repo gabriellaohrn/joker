@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
