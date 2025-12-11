@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
