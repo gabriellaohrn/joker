@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
