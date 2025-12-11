@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
