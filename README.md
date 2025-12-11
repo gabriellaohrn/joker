@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
