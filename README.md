@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> Why are pirates called pirates? Because they arrr!
 
 <!-- END -->
 
