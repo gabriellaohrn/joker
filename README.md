@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
