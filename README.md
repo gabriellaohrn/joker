@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
