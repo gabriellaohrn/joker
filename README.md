@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
