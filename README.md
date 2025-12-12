@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 <!-- END -->
 
