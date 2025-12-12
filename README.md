@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
