@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
