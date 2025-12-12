@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
