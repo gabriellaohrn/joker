@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
