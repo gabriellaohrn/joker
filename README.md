@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
