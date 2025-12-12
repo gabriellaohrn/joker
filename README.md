@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
