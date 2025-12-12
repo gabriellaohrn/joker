@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
