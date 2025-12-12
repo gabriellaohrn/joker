@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 <!-- END -->
 
