@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
 
 <!-- END -->
 
