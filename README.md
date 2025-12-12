@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
