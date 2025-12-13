@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
