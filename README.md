@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
