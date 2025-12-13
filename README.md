@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
