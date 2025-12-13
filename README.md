@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
