@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 
 <!-- END -->
 
