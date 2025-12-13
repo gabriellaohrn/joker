@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This morning I was wondering where the sun was, but then it dawned on me.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
