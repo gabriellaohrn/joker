@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
