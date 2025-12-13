@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
