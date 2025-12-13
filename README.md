@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
