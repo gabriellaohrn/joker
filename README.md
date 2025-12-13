@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
