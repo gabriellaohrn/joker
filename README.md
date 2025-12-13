@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't run through a camp site. You can only ran, because it's past tents.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
