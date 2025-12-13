@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
