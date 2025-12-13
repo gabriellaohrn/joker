@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
