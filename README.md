@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
