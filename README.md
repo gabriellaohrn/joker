@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
