@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
