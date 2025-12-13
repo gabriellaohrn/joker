@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
