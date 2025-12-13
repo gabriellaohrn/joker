@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
