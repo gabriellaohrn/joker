@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
