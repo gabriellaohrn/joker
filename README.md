@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
