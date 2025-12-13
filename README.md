@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
