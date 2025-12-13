@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
 
 <!-- END -->
 
