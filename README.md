@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
