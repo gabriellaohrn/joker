@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
