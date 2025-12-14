@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 <!-- END -->
 
