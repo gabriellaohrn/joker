@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 <!-- END -->
 
