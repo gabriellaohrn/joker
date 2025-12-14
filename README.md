@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
