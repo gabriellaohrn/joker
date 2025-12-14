@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 <!-- END -->
 
