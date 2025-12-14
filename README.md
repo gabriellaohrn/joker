@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
