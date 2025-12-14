@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
