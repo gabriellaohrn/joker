@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
