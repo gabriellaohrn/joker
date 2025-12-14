@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
