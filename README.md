@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
