@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
