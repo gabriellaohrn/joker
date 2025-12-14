@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
+> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
