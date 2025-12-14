@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
