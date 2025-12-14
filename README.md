@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
 
 <!-- END -->
 
