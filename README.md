@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
