@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
