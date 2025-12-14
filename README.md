@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
