@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
