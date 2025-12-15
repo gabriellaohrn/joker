@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
