@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
