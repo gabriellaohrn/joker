@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
