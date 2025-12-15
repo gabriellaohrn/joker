@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
