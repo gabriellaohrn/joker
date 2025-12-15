@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
