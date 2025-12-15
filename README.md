@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
