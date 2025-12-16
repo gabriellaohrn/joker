@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
+> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
 
 <!-- END -->
 
