@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
 
 <!-- END -->
 
