@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Waking up this morning was an eye-opening experience.
 
 <!-- END -->
 
