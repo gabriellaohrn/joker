@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come a man driving a train got struck by lightning? He was a good conductor.
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
