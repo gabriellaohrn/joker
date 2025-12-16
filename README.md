@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
