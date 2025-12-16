@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
