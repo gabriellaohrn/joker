@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> When do doctors get angry? When they run out of patients.
 
 <!-- END -->
 
