@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
