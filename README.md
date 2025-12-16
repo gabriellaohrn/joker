@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
