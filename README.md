@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 <!-- END -->
 
