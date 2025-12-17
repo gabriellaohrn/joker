@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
