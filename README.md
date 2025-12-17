@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
