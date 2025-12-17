@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+> What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 <!-- END -->
 
