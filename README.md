@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
 
 <!-- END -->
 
