@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
