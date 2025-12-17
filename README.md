@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
