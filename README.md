@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
