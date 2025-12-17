@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 <!-- END -->
 
