@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
