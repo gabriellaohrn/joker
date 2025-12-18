@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> What do you call a fly without wings? A walk.
 
 <!-- END -->
 
