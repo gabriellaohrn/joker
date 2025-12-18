@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
