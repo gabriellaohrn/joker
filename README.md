@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 <!-- END -->
 
