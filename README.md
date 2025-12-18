@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
