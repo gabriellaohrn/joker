@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
