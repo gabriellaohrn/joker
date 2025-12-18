@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
