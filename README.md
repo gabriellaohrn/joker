@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> Geology rocks, but Geography is where it's at!
 
 <!-- END -->
 
