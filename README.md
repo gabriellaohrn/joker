@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
