@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
