@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
