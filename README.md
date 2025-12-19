@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
