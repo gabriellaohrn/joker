@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
