@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
