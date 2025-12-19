@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
 
 <!-- END -->
 
