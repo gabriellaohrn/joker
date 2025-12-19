@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
