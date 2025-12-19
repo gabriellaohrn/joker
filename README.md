@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
