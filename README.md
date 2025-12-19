@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
