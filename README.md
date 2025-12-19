@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
