@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 <!-- END -->
 
