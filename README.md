@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
