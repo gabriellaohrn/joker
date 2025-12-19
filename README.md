@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 <!-- END -->
 
