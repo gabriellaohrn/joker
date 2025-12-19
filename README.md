@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
