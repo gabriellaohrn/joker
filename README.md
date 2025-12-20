@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
