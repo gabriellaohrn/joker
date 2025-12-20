@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
