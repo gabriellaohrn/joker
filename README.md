@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
