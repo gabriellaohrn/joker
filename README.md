@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 <!-- END -->
 
