@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
