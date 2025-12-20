@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
