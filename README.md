@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 <!-- END -->
 
