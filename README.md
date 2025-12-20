@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
