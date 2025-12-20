@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
