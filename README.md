@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
 
 <!-- END -->
 
