@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
