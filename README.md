@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
