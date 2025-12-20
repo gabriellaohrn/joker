@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was raining cats and dogs the other day. I almost stepped in a poodle.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
