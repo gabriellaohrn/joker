@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
