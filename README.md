@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the new Kindle screen textured to look like paper? So you feel write at home.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
