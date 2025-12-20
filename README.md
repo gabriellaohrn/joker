@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
