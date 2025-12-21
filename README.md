@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Two guys walked into a bar, the third one ducked.
 
 <!-- END -->
 
