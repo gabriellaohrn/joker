@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
