@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
