@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
