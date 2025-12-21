@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
