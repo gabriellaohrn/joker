@@ -4,8 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
