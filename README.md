@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
