@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
