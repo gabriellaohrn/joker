@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
