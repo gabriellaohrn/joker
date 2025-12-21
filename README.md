@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
