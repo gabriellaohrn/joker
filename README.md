@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
