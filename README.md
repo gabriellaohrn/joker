@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
