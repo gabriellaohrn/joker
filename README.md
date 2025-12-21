@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
