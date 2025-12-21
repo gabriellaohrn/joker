@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> We all know where the Big Apple is but does anyone know where the Minneapolis?
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
