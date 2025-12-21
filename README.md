@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
