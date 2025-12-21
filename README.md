@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
