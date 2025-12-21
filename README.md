@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
