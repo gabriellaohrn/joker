@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
