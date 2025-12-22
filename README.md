@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
