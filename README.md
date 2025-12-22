@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
