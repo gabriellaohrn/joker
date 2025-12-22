@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
