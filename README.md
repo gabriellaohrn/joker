@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
 
 <!-- END -->
 
