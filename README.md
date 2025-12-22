@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
