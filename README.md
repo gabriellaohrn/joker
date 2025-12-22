@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
