@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
