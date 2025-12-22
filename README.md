@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
