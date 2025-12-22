@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
