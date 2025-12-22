@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
