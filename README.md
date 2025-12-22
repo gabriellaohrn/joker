@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
