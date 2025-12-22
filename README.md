@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 <!-- END -->
 
