@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
