@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
