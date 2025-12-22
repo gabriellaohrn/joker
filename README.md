@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
