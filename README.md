@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
