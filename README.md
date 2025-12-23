@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
