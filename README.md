@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
