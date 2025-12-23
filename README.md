@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
