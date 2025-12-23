@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
