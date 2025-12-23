@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
