@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
