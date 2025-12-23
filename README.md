@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the big flower say to the littler flower? Hi, bud!
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
