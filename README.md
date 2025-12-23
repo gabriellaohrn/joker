@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
 
 <!-- END -->
 
