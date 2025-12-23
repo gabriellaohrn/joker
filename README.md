@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
