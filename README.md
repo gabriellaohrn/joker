@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
