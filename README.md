@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> What do you call a fish wearing a bowtie? Sofishticated.
 
 <!-- END -->
 
