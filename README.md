@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
