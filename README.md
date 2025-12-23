@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
