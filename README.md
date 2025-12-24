@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
