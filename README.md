@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
