@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
