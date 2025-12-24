@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
