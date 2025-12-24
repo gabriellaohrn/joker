@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
