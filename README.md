@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
