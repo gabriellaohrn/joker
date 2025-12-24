@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
