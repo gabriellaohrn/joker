@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
