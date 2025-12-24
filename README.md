@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
