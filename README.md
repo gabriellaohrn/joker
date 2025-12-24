@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
