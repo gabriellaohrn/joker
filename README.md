@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
