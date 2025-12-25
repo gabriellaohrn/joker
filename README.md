@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
