@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
