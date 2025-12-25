@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
