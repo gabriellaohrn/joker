@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
