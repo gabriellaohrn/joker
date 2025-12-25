@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
