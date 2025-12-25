@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
