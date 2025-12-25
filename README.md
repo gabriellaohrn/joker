@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
