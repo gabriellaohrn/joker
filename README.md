@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
