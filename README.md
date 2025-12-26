@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
