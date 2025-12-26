@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
