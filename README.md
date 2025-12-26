@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+> I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 <!-- END -->
 
