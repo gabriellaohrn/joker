@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
