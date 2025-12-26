@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
