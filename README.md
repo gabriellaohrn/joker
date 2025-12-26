@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
