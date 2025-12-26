@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
