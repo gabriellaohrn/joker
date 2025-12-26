@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
