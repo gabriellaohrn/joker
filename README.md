@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 <!-- END -->
 
