@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
