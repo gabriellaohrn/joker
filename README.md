@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
