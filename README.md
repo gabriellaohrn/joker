@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
