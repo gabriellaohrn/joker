@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
