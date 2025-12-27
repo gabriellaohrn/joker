@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> I used to work for an origami company but they folded.
 
 <!-- END -->
 
