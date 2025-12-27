@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
 
 <!-- END -->
 
