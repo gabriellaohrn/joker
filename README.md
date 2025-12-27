@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
