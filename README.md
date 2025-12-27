@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
