@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
