@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
 
 <!-- END -->
 
