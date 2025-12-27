@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
