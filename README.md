@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
