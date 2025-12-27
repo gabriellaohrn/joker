@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
