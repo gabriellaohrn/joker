@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
