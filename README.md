@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
