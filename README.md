@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
