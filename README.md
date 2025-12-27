@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What do I look like? A JOKE MACHINE!?
 
 <!-- END -->
 
