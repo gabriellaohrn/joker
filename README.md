@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
