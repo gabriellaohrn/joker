@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> How are false teeth like stars? They come out at night!
 
 <!-- END -->
 
