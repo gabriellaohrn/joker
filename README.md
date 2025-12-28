@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
