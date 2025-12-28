@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
