@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
