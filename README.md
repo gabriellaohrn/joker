@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because thereâs a Shortstop in between!
 
 <!-- END -->
 
