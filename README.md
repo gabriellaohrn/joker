@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
