@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 <!-- END -->
 
