@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
