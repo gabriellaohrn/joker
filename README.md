@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
