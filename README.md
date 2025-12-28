@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
