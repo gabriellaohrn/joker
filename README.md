@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
