@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
