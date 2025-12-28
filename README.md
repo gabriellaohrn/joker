@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
