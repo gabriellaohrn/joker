@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
