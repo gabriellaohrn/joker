@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
