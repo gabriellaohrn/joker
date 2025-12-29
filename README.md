@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 <!-- END -->
 
