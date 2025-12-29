@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
