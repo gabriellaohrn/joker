@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
