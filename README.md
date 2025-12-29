@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
