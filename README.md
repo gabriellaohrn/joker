@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
