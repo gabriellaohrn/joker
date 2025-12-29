@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
