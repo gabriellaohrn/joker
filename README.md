@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
