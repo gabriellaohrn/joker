@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 <!-- END -->
 
