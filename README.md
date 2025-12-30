@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
