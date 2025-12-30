@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
