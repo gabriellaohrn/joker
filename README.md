@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
