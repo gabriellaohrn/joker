@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
