@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
