@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
