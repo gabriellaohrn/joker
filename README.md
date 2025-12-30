@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
