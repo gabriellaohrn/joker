@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
