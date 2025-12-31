@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
