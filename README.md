@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
