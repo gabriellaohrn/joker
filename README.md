@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
