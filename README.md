@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 
 <!-- END -->
 
