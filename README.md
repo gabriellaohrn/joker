@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
