@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 <!-- END -->
 
