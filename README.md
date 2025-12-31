@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
