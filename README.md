@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
