@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
