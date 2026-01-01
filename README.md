@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
 
 <!-- END -->
 
