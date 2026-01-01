@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
