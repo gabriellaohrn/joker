@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 <!-- END -->
 
