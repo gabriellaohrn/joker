@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
