@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
