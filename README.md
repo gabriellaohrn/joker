@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
