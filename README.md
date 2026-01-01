@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
