@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
