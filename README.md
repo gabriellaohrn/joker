@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
