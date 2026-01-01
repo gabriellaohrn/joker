@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
