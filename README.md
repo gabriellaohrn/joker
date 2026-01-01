@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
