@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 <!-- END -->
 
