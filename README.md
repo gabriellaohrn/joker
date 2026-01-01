@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
