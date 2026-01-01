@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
