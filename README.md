@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 <!-- END -->
 
