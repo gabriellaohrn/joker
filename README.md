@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
