@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
