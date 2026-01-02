@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
