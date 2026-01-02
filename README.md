@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
