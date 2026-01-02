@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
