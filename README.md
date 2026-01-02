@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
