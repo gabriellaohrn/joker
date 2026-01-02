@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 <!-- END -->
 
