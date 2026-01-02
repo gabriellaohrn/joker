@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 <!-- END -->
 
