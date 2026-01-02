@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
