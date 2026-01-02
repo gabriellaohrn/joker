@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
