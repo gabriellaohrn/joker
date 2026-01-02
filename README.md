@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
