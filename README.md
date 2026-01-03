@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
