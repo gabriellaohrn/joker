@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
