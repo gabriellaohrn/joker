@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
