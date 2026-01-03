@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
