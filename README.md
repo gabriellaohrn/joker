@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
