@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
