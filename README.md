@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
