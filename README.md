@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
