@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
