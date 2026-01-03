@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 <!-- END -->
 
