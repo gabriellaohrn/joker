@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
