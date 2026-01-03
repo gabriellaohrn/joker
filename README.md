@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
