@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
