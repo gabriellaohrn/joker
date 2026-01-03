@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
