@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 <!-- END -->
 
