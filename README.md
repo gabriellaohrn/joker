@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
