@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
