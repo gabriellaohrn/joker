@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
+> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 <!-- END -->
 
