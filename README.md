@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
