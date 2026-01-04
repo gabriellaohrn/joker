@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
