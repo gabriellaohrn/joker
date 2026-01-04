@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
