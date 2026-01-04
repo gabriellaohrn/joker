@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
