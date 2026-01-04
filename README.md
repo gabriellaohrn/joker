@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
