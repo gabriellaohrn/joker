@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
