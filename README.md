@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
