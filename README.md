@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
