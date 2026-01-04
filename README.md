@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
