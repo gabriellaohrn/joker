@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
 
 <!-- END -->
 
