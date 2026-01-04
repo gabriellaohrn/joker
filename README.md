@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
