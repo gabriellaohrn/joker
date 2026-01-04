@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 <!-- END -->
 
