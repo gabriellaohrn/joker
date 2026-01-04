@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
