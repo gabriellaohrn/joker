@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 <!-- END -->
 
