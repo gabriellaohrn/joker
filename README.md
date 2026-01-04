@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
