@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
