@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
