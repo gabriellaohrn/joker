@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
