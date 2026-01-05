@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
