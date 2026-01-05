@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
