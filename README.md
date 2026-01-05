@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
