@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> What's red and bad for your teeth? A Brick.
 
 <!-- END -->
 
