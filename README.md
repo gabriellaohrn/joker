@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
