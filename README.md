@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
