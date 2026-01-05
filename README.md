@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
