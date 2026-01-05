@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> To be Frank, I'd have to change my name.
 
 <!-- END -->
 
