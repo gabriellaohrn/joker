@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
