@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
