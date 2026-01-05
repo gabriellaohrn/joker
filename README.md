@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
