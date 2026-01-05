@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
+> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 <!-- END -->
 
