@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
