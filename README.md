@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
