@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
