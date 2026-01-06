@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
