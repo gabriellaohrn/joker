@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
