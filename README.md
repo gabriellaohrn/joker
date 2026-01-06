@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 <!-- END -->
 
