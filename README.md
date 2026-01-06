@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
