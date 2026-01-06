@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
