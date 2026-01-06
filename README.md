@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
