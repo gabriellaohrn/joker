@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
