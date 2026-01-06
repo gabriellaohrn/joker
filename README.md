@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
