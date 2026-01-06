@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 <!-- END -->
 
