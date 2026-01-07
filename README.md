@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
