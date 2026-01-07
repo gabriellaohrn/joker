@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
