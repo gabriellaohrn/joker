@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
