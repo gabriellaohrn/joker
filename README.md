@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
