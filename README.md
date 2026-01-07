@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
