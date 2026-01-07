@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 <!-- END -->
 
