@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
