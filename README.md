@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
