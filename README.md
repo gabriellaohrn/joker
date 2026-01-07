@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
