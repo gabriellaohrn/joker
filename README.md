@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
 
 <!-- END -->
 
