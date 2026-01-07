@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
