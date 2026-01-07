@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
