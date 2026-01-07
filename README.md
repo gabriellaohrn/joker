@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
