@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> What do you call corn that joins the army? Kernel.
 
 <!-- END -->
 
