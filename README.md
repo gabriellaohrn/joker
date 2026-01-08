@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
