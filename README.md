@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 <!-- END -->
 
