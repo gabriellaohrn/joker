@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
