@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
