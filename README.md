@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
 
 <!-- END -->
 
