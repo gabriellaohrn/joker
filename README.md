@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 <!-- END -->
 
