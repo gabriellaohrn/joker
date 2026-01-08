@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
