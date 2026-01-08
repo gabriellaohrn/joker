@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
