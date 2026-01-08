@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 <!-- END -->
 
