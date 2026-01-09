@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
