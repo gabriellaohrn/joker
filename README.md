@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
