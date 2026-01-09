@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
