@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
