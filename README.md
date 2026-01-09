@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
