@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
