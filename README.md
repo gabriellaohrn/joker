@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+> When you have a bladder infection, urine trouble.
 
 <!-- END -->
 
