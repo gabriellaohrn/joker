@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
