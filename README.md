@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
