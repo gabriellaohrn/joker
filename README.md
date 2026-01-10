@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 <!-- END -->
 
