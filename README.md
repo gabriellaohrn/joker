@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
