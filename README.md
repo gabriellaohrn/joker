@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
