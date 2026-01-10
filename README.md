@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
