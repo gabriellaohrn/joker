@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
