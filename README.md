@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 <!-- END -->
 
