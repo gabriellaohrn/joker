@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
