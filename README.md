@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 <!-- END -->
 
