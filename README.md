@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
