@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
