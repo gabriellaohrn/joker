@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
