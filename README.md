@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 <!-- END -->
 
