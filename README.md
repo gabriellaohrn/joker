@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
