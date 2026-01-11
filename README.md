@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
