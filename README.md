@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I suspected, someone has been adding soil to my garden. The plot thickens.
+> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 <!-- END -->
 
