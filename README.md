@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
