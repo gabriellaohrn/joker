@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
