@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
