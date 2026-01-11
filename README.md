@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
