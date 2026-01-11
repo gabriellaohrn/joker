@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
