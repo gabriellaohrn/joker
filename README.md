@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
