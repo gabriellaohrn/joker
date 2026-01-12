@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
