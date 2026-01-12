@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
