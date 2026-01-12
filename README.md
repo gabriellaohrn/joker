@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
