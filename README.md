@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 <!-- END -->
 
