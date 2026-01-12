@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
