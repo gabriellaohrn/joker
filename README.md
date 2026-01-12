@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 <!-- END -->
 
