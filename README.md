@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> How do you organize a space party? You planet.
 
 <!-- END -->
 
