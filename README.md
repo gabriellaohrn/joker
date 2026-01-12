@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
