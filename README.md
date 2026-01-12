@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
