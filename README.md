@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
