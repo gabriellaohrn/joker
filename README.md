@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
