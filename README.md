@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
