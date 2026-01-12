@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
