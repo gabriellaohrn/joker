@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
