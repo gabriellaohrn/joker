@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
