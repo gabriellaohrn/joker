@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
