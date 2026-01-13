@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
