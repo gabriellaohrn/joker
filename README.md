@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
 
 <!-- END -->
 
