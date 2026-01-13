@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
