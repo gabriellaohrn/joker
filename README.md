@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 <!-- END -->
 
