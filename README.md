@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
