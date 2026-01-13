@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
