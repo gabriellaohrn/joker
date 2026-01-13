@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
