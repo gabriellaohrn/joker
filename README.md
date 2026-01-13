@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> The invention of the wheel was what got things rolling
 
 <!-- END -->
 
