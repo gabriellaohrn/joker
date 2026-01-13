@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
