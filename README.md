@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
