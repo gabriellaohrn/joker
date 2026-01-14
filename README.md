@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
