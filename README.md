@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> How much does a hipster weigh? An instagram.
 
 <!-- END -->
 
