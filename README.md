@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
