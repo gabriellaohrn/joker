@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
