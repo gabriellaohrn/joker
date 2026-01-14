@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
