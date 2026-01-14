@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
