@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
