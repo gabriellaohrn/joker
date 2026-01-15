@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
