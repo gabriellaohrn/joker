@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
+> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
 
 <!-- END -->
 
