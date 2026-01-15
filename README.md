@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
