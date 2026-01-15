@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
