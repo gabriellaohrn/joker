@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
