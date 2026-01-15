@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
