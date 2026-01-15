@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> What has three letters and starts with gas? A Car.
 
 <!-- END -->
 
