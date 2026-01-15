@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
