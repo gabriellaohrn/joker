@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
