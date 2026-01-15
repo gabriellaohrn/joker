@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
