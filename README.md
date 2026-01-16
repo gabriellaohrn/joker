@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 <!-- END -->
 
