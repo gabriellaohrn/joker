@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
