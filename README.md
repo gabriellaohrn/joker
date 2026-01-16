@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
