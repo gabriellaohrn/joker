@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 <!-- END -->
 
