@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
