@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
