@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
 
 <!-- END -->
 
