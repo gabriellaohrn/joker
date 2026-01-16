@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
