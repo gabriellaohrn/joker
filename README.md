@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
