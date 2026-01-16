@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 <!-- END -->
 
