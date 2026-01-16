@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
