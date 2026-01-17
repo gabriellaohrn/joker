@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
