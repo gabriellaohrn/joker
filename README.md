@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 <!-- END -->
 
