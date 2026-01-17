@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
