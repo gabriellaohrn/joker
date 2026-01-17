@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
