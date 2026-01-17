@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
