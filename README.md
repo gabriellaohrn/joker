@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
