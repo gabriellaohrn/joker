@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
