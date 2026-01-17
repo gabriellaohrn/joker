@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 <!-- END -->
 
