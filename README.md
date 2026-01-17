@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
