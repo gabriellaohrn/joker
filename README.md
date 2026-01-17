@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 <!-- END -->
 
