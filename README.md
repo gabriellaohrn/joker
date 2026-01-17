@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 <!-- END -->
 
