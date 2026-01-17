@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
