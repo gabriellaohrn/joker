@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 <!-- END -->
 
