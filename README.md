@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
