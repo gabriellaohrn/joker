@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
