@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
