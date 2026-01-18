@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
 
 <!-- END -->
 
