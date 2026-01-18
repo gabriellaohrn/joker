@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why was the broom late for the meeting? He overswept.
 
 <!-- END -->
 
