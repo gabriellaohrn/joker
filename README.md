@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
