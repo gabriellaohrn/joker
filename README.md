@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
