@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
