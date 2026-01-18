@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
