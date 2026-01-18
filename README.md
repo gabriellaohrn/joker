@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
