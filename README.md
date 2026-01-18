@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
