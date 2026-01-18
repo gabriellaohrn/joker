@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
