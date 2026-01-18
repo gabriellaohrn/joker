@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
