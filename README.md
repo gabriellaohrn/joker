@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 <!-- END -->
 
