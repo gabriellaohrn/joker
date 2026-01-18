@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
