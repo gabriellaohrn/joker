@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
