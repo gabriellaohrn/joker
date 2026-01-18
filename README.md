@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 <!-- END -->
 
