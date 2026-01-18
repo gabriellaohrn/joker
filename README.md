@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
