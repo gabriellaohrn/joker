@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
