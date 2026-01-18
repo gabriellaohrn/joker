@@ -4,9 +4,11 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.
+> A panda walks into a bar and says to the bartender âIâll have a Scotch and . . . . . . . . . . . . . . Coke thank youâ. 
+
+âSure thingâ the bartender replies and asks âbut whatâs with the big pause?â 
+
+The panda holds up his hands and says âI was born with themâ
 
 <!-- END -->
 
