@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
