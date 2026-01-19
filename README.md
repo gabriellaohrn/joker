@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
