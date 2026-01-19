@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
