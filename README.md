@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
