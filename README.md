@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
