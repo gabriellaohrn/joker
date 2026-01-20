@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
