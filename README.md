@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
