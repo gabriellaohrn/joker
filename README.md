@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
