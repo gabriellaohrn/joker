@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 <!-- END -->
 
