@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
