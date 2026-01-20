@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 <!-- END -->
 
