@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
