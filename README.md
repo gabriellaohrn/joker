@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
