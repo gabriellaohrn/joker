@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
