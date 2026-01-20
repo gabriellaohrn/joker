@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> Why did the house go to the doctor? It was having window panes.
 
 <!-- END -->
 
