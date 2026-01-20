@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
