@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
