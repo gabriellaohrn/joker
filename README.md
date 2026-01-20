@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
