@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 <!-- END -->
 
