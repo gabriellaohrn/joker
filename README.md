@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
