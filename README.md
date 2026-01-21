@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
