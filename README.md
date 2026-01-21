@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
