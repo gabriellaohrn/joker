@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
