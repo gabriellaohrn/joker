@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 <!-- END -->
 
