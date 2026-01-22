@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
