@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
