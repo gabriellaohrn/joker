@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
