@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
