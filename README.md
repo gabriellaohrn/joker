@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
