@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
