@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
