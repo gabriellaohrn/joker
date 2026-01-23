@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 <!-- END -->
 
