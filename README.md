@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
