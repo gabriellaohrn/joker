@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
