@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
