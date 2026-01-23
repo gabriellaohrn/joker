@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
