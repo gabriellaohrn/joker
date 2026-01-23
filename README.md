@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
