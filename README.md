@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> You know what they say about cliffhangers...
 
 <!-- END -->
 
