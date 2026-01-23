@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
