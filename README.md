@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 <!-- END -->
 
