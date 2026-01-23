@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
 
 <!-- END -->
 
