@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
