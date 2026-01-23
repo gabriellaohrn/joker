@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
