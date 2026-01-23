@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 <!-- END -->
 
