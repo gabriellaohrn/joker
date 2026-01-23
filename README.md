@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
