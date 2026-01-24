@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
