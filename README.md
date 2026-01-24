@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
