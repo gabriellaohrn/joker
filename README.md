@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
