@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
