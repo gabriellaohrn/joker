@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
