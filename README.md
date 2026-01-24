@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
