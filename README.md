@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
