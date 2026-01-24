@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> We all know where the Big Apple is but does anyone know where the Minneapolis?
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
