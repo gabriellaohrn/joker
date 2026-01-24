@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
