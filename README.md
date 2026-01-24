@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
