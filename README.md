@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
