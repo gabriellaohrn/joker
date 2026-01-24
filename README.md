@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
