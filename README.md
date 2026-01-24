@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad, can you put my shoes on? I don't think they'll fit me.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
