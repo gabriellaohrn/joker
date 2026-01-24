@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
