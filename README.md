@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
