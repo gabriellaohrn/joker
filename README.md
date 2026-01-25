@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 <!-- END -->
 
