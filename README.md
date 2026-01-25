@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
