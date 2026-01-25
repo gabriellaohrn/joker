@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
