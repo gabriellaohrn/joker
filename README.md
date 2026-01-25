@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> When you have a bladder infection, urine trouble.
 
 <!-- END -->
 
