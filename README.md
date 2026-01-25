@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
