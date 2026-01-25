@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
