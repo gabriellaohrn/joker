@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
