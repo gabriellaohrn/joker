@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
