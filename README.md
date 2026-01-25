@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
