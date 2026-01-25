@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
