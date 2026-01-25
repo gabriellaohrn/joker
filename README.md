@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
 
 <!-- END -->
 
