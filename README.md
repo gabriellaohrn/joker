@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
