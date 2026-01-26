@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
