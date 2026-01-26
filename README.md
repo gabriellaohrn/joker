@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
