@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
