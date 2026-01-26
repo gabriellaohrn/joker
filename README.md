@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
