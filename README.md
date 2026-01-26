@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
