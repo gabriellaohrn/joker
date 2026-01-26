@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
