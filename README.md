@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
