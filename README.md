@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
