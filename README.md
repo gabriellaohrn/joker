@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 <!-- END -->
 
