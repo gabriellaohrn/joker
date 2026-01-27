@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
