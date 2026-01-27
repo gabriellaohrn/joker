@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
