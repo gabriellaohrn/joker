@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
