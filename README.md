@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
