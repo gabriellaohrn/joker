@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
