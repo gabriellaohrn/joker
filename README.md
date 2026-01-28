@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 <!-- END -->
 
