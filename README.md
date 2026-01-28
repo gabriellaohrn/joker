@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 <!-- END -->
 
