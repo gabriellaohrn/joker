@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 <!-- END -->
 
