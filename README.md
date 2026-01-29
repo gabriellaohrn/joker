@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
