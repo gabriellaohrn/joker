@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
