@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 <!-- END -->
 
