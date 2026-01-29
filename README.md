@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
