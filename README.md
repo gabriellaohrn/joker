@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
