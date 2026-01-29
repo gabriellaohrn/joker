@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
