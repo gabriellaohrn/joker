@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
