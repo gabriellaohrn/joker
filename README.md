@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
