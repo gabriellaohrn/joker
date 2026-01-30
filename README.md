@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
