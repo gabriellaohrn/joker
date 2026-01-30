@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
