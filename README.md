@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
