@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
