@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
