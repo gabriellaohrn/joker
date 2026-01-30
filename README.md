@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
