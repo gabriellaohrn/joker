@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
