@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
