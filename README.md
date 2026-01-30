@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
