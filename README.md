@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
