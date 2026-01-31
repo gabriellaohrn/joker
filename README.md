@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
