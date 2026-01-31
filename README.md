@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
