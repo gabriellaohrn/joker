@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
