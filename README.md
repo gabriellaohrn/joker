@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
 
 <!-- END -->
 
