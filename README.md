@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
