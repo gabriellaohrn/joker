@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
