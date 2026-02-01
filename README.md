@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 <!-- END -->
 
