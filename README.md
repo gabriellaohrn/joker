@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
