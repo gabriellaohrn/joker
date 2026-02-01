@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
