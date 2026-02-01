@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
