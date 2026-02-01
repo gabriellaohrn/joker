@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> What do you call a cow with two legs? Lean beef.
 
 <!-- END -->
 
