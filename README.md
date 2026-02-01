@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
