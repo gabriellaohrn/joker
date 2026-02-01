@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
