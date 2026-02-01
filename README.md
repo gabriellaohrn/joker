@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
