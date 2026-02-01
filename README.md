@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
