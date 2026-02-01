@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
