@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
