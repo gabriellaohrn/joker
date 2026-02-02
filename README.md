@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
