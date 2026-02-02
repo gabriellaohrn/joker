@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
