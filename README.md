@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> What do you call a pig with three eyes? Piiig
 
 <!-- END -->
 
