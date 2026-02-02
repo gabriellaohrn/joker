@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 <!-- END -->
 
