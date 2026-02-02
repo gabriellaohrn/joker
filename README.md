@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> What do you call a troublesome Canadian high schooler? A poutine.
 
 <!-- END -->
 
