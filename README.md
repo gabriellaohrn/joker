@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
