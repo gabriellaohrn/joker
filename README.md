@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
