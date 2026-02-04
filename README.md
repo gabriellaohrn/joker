@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
