@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
