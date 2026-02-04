@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
