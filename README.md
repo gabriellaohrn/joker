@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
