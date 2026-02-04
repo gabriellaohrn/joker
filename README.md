@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
