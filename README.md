@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
