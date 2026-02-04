@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
