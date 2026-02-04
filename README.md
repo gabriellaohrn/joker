@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 <!-- END -->
 
