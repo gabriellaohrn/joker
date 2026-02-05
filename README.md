@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
