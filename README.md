@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
