@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
