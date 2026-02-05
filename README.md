@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
