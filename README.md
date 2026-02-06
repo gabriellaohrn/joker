@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
