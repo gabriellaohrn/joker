@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
