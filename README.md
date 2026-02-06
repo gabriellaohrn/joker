@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
