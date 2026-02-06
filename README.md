@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
