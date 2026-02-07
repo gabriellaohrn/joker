@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
