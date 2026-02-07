@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
