@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
