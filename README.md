@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
