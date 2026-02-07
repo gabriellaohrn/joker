@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
