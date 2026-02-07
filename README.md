@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
