@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
