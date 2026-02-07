@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
