@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
