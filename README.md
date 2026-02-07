@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 <!-- END -->
 
