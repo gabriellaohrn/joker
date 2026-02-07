@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
 
 <!-- END -->
 
