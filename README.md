@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
