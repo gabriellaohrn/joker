@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
