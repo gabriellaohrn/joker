@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
