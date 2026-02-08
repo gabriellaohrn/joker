@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
