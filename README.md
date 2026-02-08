@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
