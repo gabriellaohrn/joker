@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 <!-- END -->
 
