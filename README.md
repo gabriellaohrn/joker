@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
