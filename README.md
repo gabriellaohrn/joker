@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
