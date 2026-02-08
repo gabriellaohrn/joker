@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 <!-- END -->
 
