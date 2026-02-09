@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
