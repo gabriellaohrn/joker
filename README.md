@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
