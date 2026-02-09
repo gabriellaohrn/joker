@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
