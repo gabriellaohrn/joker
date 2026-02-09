@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
