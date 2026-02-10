@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
