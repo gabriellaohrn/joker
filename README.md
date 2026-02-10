@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
