@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
