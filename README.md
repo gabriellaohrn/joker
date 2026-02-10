@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
