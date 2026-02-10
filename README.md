@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
