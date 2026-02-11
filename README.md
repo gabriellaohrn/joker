@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
