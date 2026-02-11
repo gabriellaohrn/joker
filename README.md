@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
