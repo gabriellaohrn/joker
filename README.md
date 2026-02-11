@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
