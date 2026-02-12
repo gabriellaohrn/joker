@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
