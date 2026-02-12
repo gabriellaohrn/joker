@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
