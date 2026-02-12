@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
