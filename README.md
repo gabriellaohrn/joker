@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
