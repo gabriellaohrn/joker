@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 <!-- END -->
 
