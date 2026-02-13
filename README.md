@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
