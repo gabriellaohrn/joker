@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
