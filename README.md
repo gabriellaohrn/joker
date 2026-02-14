@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
