@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
