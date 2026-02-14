@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 <!-- END -->
 
