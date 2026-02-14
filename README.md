@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
