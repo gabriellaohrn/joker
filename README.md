@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
