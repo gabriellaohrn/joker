@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
