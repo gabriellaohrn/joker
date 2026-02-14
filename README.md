@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
