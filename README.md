@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
