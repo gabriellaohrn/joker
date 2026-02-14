@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
