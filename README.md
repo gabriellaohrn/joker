@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
