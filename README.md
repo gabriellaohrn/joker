@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
