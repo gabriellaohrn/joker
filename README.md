@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
