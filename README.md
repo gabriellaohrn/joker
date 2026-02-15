@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Where do fish keep their money? In the riverbank
 
 <!-- END -->
 
