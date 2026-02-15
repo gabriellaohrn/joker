@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
