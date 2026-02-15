@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
