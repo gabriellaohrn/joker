@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
