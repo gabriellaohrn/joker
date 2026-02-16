@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
