@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
