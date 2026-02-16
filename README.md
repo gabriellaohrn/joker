@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's large, grey, and doesn't matter?
-An irrelephant.
-
+> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 <!-- END -->
 
