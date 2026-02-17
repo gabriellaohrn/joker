@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
