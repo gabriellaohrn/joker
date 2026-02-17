@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
