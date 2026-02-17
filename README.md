@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
