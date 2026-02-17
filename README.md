@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
