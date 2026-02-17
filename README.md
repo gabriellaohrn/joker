@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
