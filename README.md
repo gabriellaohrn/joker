@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
