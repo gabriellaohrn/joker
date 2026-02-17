@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
