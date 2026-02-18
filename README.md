@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ever wondered why bees hum? It's because they don't know the words.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
