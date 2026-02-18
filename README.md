@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
