@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
