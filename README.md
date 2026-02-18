@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
