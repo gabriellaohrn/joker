@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy whose whole left side was cut off? He's all right now.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
