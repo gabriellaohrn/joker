@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
