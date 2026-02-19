@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
