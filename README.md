@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 <!-- END -->
 
