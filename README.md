@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Why did the coffee file a police report? It got mugged.
 
 <!-- END -->
 
