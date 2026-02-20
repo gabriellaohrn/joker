@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
