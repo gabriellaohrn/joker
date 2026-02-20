@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
