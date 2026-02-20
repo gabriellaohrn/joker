@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
