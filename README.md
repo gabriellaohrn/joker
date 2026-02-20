@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
