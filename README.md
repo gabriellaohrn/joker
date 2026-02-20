@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
