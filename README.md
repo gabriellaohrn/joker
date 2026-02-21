@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 <!-- END -->
 
