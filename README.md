@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know crocodiles could grow up to 15 feet? But most just have 4.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
