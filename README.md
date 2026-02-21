@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
