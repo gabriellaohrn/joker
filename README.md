@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
