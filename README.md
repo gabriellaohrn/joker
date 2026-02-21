@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
