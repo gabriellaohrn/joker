@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
