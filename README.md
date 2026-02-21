@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
