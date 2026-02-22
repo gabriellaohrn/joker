@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
