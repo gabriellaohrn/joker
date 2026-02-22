@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What do you call an Argentinian with a rubber toe? Roberto
 
 <!-- END -->
 
