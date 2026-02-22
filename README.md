@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
