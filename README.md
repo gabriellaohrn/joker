@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
