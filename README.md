@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
 
 <!-- END -->
 
