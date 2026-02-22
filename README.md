@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
