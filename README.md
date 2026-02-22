@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
