@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
