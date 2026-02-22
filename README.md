@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
