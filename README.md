@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
