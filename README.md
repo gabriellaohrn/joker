@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
