@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
