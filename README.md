@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
