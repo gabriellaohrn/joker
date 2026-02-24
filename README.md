@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
