@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
