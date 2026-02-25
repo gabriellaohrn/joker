@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
