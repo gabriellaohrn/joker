@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
