@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
