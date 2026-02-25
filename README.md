@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
