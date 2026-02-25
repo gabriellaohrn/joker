@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
