@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
