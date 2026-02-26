@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
