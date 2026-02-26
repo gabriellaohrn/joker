@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
