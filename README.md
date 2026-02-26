@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
