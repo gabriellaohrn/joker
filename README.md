@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
