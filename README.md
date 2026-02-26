@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
