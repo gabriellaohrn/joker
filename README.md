@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
