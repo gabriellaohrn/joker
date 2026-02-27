@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
