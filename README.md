@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
