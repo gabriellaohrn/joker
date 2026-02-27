@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
