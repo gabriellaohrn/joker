@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 <!-- END -->
 
