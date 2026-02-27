@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
