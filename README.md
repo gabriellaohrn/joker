@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 <!-- END -->
 
