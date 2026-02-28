@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
