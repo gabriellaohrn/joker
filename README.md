@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
