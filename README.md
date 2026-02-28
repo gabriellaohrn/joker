@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
