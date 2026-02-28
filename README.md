@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
