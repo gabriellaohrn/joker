@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
