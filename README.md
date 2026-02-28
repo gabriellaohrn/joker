@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
