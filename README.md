@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
