@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
