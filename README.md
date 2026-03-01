@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
