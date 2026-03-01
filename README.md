@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
