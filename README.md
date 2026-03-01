@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
