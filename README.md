@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
