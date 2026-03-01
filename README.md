@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
