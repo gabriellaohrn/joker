@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> What do I look like? A JOKE MACHINE!?
 
 <!-- END -->
 
