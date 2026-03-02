@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
