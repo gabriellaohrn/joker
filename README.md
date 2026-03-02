@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
