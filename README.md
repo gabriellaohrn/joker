@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
