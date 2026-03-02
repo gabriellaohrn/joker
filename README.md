@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
