@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
