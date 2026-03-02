@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
