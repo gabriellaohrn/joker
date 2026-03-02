@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
