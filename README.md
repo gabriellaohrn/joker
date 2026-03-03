@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
