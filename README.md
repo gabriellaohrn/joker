@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
