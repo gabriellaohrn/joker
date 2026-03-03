@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
