@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
