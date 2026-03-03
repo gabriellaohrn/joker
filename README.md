@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
