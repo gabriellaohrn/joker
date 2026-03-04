@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 <!-- END -->
 
