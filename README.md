@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
