@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
