@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
