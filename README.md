@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
