@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
