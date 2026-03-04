@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
