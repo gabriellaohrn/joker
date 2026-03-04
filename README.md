@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
