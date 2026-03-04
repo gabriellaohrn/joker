@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
