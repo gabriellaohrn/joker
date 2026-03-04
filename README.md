@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
