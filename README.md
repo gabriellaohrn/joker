@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
