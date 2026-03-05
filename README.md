@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
