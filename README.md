@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
