@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
