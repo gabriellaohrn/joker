@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
