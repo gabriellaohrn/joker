@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
