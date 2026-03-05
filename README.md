@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
