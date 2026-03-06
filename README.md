@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
