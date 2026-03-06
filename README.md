@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
