@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 <!-- END -->
 
