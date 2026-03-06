@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
