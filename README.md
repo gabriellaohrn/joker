@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
