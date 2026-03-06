@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
