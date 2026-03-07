@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
