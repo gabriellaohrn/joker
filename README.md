@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
