@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> Never take advice from electrons. They are always negative.
 
 <!-- END -->
 
