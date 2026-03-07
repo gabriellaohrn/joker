@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
