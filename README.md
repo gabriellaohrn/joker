@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
