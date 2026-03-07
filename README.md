@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 <!-- END -->
 
