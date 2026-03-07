@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 <!-- END -->
 
