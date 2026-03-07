@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the big flower say to the littler flower? Hi, bud!
+> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 <!-- END -->
 
