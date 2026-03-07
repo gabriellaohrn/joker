@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
