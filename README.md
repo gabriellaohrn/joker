@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
