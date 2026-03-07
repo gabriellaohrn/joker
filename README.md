@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
