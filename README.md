@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
 
 <!-- END -->
 
