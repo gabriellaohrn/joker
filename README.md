@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
