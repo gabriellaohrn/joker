@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
