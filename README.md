@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
