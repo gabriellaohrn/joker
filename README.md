@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
