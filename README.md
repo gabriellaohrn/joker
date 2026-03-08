@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
