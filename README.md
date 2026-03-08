@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
