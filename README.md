@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
