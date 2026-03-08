@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
