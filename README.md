@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
