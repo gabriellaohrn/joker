@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
