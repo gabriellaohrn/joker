@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
