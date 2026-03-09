@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
