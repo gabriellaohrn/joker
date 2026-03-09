@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
