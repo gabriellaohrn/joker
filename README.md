@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 <!-- END -->
 
