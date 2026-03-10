@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
