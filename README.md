@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
