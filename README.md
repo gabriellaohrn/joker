@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
