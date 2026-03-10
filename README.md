@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
