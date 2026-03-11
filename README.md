@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 <!-- END -->
 
