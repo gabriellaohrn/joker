@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
