@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
