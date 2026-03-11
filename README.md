@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
