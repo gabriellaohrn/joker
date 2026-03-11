@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
