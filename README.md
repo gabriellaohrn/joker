@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
