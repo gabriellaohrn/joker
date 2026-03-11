@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
