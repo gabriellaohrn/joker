@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
