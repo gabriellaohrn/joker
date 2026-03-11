@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
