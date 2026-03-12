@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
