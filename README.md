@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
