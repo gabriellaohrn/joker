@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> Why are pirates called pirates? Because they arrr!
 
 <!-- END -->
 
