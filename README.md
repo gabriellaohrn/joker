@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
