@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
