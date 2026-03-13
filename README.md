@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 <!-- END -->
 
