@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a droid that takes the long way around? R2 detour.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
