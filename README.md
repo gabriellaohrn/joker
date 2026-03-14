@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
