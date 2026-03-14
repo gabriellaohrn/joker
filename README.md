@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
