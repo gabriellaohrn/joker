@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
