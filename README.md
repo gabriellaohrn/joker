@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
