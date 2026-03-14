@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
