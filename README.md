@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 <!-- END -->
 
