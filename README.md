@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
