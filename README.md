@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
