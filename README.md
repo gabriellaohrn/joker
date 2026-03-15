@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
