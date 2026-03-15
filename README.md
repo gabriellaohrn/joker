@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
