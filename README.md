@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
