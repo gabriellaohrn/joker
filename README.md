@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
