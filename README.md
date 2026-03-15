@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
