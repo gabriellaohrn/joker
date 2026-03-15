@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
