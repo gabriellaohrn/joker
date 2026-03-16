@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
