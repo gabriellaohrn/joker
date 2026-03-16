@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 <!-- END -->
 
