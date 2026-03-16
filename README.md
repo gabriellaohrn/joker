@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
