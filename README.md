@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
