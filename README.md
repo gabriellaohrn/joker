@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
