@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
