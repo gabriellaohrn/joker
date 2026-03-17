@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do nurses carry around red crayons? Sometimes they need to draw blood.
+> What do you call a girl between two posts? Annette.
 
 <!-- END -->
 
