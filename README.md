@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
