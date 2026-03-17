@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
 
 <!-- END -->
 
