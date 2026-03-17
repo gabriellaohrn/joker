@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
