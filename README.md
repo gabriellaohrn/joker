@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
