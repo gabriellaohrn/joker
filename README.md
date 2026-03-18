@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
