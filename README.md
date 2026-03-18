@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
