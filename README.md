@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
