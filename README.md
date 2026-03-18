@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
