@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
