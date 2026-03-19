@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
