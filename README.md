@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
