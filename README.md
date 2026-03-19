@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
