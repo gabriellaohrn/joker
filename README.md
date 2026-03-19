@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
