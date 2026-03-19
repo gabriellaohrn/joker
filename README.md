@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
