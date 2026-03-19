@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
