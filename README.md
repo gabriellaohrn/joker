@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
