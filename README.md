@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
