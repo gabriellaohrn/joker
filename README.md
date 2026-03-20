@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
