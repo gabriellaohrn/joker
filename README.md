@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
