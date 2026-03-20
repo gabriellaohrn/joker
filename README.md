@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
