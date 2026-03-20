@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
