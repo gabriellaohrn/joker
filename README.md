@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
