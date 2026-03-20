@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
