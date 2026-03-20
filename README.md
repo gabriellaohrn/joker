@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 <!-- END -->
 
