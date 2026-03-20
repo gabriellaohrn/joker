@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
