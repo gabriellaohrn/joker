@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
