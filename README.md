@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
