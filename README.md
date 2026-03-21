@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This morning I was wondering where the sun was, but then it dawned on me.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
