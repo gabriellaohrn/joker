@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
 
 <!-- END -->
 
