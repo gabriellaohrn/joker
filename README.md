@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
