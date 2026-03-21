@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
