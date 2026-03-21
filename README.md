@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
