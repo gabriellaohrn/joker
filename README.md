@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
