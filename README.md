@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
