@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 <!-- END -->
 
