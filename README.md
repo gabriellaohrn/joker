@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
