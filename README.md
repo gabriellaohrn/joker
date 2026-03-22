@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
