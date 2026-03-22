@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
