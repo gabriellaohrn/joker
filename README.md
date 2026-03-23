@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
