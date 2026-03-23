@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
