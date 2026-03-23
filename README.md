@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
