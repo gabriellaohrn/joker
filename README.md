@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
