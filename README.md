@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
