@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> What do you call a fish with no eyes? A fsh.
 
 <!-- END -->
 
