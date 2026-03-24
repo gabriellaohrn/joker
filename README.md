@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
