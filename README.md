@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just got fired from a florist, apparently I took too many leaves.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
