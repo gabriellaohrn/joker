@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
