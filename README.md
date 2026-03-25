@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
