@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
