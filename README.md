@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
