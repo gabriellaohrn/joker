@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
