@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
