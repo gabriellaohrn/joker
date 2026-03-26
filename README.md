@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
