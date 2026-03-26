@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
