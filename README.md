@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
