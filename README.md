@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> Never take advice from electrons. They are always negative.
 
 <!-- END -->
 
