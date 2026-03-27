@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
