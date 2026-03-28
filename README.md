@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 <!-- END -->
 
