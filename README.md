@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
