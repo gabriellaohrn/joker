@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
