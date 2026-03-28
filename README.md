@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
