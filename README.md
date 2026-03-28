@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
