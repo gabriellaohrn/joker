@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
+> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 <!-- END -->
 
