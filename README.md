@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
