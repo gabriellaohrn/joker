@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
