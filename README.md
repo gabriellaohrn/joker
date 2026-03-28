@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
