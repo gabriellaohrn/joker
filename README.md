@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 <!-- END -->
 
