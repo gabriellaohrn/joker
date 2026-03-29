@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
