@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
