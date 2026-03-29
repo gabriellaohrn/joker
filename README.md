@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
