@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
