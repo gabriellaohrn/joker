@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
