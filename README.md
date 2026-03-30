@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
 
 <!-- END -->
 
