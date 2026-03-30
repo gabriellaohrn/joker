@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
