@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> What did the mountain climber name his son? Cliff.
 
 <!-- END -->
 
