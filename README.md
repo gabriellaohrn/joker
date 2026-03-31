@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Two guys walked into a bar, the third one ducked.
 
 <!-- END -->
 
