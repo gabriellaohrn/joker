@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
