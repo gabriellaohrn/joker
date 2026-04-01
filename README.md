@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
