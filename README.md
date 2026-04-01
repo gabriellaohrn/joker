@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 <!-- END -->
 
