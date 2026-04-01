@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
