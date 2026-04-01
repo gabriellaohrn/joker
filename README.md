@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
