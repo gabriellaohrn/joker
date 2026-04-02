@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
