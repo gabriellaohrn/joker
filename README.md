@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
