@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 <!-- END -->
 
