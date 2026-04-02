@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
