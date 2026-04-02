@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
