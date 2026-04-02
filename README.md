@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
