@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
