@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
