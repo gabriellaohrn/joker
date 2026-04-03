@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 <!-- END -->
 
