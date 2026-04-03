@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
