@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 <!-- END -->
 
