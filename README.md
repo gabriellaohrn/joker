@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 <!-- END -->
 
