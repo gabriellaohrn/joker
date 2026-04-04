@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
