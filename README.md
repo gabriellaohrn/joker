@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
