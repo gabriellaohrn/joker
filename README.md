@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 <!-- END -->
 
