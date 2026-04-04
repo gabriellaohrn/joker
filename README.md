@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
