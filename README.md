@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> The invention of the wheel was what got things rolling
 
 <!-- END -->
 
