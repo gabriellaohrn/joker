@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
