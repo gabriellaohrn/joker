@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
