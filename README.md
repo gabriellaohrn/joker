@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
+> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 <!-- END -->
 
