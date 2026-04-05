@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
