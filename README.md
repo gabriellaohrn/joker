@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> What do you call corn that joins the army? Kernel.
 
 <!-- END -->
 
