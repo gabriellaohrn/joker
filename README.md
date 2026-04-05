@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can I watch the TV? Dad: Yes, but donât turn it on.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
