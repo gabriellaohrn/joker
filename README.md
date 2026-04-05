@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
