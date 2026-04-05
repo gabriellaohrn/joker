@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
