@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
