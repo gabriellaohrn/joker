@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
