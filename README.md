@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
 
 <!-- END -->
 
