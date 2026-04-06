@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
