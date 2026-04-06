@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 <!-- END -->
 
