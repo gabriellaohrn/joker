@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
