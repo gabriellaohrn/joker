@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
