@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
