@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
 
 <!-- END -->
 
