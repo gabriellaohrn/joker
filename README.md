@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
