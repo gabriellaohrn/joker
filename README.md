@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
