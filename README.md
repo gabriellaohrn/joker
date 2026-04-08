@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
