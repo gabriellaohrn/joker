@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
