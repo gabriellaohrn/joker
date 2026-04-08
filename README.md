@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's large, grey, and doesn't matter?
-An irrelephant.
-
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
