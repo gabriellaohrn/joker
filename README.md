@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
