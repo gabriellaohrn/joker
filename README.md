@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
