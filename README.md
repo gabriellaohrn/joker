@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
->  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
