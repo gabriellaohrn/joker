@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
