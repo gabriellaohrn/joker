@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
