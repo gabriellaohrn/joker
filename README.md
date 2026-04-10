@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
