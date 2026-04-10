@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every night at 11:11, I make a wish that someone will come fix my broken clock.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
