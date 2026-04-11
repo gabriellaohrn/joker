@@ -4,8 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
