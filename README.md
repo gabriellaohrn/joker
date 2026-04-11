@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
 
 <!-- END -->
 
