@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
