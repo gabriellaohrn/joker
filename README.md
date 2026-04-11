@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
