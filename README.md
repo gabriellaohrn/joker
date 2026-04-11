@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
