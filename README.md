@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
