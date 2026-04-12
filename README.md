@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
