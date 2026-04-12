@@ -4,7 +4,11 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
+> A panda walks into a bar and says to the bartender âIâll have a Scotch and . . . . . . . . . . . . . . Coke thank youâ. 
+
+âSure thingâ the bartender replies and asks âbut whatâs with the big pause?â 
+
+The panda holds up his hands and says âI was born with themâ
 
 <!-- END -->
 
