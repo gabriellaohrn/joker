@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
