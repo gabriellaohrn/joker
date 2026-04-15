@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 <!-- END -->
 
