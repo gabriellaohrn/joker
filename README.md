@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
