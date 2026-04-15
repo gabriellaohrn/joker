@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
