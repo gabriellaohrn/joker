@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 <!-- END -->
 
