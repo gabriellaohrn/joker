@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
