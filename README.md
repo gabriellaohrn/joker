@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
