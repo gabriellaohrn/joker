@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
