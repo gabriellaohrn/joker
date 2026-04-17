@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
