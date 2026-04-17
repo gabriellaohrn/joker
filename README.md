@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
