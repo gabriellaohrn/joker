@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
