@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
