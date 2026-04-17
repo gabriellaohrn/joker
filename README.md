@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
