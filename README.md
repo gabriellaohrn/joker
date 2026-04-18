@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, âNo, just leave it in the carton!â
 
 <!-- END -->
 
