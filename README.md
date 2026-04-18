@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> What do you call a cow with two legs? Lean beef.
 
 <!-- END -->
 
