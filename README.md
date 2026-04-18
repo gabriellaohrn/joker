@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 <!-- END -->
 
