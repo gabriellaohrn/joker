@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
