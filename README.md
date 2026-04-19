@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
