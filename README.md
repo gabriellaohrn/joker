@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 <!-- END -->
 
