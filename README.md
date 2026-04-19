@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 <!-- END -->
 
