@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
