@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
