@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
