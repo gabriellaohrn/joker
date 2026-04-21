@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
