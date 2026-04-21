@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
