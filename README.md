@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
