@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
