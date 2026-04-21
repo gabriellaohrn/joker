@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
