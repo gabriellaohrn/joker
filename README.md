@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
