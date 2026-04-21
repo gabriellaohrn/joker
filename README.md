@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
