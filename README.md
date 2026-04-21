@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
