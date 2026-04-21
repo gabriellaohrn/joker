@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
