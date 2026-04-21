@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
