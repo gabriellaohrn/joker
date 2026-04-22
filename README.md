@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
