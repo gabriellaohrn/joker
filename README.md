@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
