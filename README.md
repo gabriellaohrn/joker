@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 <!-- END -->
 
