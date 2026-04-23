@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
