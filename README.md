@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 <!-- END -->
 
