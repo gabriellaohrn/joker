@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
