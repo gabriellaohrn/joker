@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
