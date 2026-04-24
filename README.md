@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
