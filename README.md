@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
