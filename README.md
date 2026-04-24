@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
