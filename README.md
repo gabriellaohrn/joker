@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
