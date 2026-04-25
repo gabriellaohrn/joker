@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
