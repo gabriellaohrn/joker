@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
