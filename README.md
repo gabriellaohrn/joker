@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
