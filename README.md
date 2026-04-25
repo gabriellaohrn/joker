@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
