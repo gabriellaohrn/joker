@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
