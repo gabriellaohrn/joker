@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
