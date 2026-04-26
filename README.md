@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
