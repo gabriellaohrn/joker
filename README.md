@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
