@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
