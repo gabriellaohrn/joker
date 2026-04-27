@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
