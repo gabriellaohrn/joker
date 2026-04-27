@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
