@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
