@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
