@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
