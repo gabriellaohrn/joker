@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
