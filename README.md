@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
