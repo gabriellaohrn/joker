@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
