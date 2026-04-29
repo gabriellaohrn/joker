@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
