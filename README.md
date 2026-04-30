@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
