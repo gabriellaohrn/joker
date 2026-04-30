@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+> What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 <!-- END -->
 
