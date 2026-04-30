@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
