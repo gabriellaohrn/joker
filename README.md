@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 <!-- END -->
 
