@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
