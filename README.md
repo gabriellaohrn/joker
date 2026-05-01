@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
