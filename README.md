@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
