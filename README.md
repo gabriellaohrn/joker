@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
