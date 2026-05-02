@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
