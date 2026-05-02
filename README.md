@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
