@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
