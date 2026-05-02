@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 <!-- END -->
 
