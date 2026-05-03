@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 <!-- END -->
 
