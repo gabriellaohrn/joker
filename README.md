@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
