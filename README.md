@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
