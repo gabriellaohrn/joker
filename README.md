@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 <!-- END -->
 
