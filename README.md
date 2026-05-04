@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
