@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
