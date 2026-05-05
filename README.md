@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
