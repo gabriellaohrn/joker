@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> Archaeology really is a career in ruins.
 
 <!-- END -->
 
