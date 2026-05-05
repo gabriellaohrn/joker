@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Whats a penguins favorite relative? Aunt Arctica.
 
 <!-- END -->
 
