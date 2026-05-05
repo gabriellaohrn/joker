@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
