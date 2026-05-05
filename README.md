@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
