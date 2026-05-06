@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> What's black and white and read all over? The newspaper.
 
 <!-- END -->
 
