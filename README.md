@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
