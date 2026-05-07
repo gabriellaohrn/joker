@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
