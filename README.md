@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
