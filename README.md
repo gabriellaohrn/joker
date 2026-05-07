@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 <!-- END -->
 
