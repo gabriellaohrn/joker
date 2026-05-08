@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
