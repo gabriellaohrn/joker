@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
