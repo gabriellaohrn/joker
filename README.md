@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
