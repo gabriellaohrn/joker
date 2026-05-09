@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
