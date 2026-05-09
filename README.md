@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 <!-- END -->
 
