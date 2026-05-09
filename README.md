@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
