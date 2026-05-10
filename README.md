@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
