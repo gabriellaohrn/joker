@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
