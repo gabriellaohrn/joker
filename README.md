@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
