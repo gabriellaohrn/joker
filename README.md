@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
