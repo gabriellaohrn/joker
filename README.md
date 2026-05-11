@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
