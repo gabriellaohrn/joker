@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 <!-- END -->
 
