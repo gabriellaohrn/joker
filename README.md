@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
 
 <!-- END -->
 
