@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
