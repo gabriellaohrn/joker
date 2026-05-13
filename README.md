@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 <!-- END -->
 
