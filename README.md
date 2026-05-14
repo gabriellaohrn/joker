@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
