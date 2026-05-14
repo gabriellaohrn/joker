@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
