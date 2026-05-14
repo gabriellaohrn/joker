@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
