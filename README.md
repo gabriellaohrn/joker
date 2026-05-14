@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
