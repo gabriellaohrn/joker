@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
