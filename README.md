@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
