@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
