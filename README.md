@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
