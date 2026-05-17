@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
