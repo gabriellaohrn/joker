@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
