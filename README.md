@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 <!-- END -->
 
