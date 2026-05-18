@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 <!-- END -->
 
