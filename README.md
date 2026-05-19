@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 <!-- END -->
 
