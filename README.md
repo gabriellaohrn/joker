@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
