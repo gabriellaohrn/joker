@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
