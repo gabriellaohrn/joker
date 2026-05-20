@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
