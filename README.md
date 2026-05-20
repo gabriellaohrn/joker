@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
