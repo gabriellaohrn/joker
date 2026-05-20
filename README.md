@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
