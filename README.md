@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
