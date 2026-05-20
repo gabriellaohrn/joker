@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 <!-- END -->
 
