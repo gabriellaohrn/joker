@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
