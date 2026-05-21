@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 <!-- END -->
 
