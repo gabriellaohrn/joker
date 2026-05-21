@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
