@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
