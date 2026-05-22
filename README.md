@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
