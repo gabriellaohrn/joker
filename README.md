@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
