@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
