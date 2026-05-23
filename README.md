@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
