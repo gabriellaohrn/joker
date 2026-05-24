@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> What's red and bad for your teeth? A Brick.
 
 <!-- END -->
 
