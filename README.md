@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
