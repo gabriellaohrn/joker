@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
