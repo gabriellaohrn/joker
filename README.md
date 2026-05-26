@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
