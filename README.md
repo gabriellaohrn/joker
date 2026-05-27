@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
