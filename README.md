@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
