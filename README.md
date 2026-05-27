@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
