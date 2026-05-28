@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
