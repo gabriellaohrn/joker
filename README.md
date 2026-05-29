@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
