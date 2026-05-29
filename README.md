@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
