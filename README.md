@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
