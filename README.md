@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
