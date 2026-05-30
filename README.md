@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
