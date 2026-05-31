@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
