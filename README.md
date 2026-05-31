@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
