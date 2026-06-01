@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
