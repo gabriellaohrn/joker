@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dinosaur loves to sleep? A stega-snore-us.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
