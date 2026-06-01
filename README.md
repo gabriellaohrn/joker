@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
