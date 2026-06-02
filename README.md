@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
