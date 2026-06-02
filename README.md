@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
