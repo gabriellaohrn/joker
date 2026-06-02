@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
