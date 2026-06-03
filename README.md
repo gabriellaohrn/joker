@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
