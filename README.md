@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
