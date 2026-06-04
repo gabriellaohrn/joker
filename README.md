@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
