@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every night at 11:11, I make a wish that someone will come fix my broken clock.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
