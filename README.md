@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
