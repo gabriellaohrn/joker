@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
