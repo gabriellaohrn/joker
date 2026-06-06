@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 <!-- END -->
 
