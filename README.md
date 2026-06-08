@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
