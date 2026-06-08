@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
