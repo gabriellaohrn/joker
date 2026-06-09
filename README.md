@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
