@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
