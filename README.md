@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
