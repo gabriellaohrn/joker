@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
