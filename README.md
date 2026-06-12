@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+> Why did the barber win the race? He took a short cut.
 
 <!-- END -->
 
