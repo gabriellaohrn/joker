@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
