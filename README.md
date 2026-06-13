@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
