@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
