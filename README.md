@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
 
 <!-- END -->
 
