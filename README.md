@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
