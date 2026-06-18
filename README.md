@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
