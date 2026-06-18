@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
