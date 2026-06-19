@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
