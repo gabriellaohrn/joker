@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
