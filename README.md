@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> Why do bees hum? Because they don't know the words.
 
 <!-- END -->
 
