@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a troublesome Canadian high schooler? A poutine.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
