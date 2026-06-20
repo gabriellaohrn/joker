@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
