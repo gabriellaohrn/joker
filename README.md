@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
