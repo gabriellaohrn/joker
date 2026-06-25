@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 <!-- END -->
 
