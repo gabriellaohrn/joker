@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> A cannibal is someone who is fed up with people.
 
 <!-- END -->
 
