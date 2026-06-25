@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
