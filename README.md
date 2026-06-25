@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
