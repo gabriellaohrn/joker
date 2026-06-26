@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
