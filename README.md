@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
