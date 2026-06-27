@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 <!-- END -->
 
