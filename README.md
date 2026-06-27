@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 <!-- END -->
 
