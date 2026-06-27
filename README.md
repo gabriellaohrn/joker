@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
