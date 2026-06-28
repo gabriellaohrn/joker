@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
