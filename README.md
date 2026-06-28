@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
