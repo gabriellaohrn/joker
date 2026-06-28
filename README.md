@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
 
 <!-- END -->
 
