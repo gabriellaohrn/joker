@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
