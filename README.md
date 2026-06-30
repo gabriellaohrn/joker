@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
