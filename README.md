@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
