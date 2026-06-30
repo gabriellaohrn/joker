@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
 
 <!-- END -->
 
