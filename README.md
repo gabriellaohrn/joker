@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
