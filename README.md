@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 <!-- END -->
 
