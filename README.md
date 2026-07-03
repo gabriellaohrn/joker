@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
