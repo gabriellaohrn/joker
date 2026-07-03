@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
