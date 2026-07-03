@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 <!-- END -->
 
