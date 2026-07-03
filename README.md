@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
