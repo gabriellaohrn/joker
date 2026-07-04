@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
