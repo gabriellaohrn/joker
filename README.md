@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Geology rocks, but Geography is where it's at!
 
 <!-- END -->
 
