@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the feline fail the lie detector test? Because he be lion.
+> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 <!-- END -->
 
