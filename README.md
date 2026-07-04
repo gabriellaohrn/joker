@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
