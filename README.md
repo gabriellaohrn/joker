@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
