@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
 
 <!-- END -->
 
