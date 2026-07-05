@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
