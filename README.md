@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
 
 <!-- END -->
 
