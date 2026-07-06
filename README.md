@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 <!-- END -->
 
