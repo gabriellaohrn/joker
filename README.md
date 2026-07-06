@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
