@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
