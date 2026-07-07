@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
