@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
 
 <!-- END -->
 
