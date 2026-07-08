@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
