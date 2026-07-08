@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
 
 <!-- END -->
 
