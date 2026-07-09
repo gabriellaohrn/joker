@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
