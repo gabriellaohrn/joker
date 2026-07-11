@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
