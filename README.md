@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
