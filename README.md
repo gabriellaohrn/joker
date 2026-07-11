@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
