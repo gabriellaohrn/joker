@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> We all know where the Big Apple is but does anyone know where the Minneapolis?
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
