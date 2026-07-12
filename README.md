@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
