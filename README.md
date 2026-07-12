@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 <!-- END -->
 
