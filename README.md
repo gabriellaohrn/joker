@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
