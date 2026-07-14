@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 <!-- END -->
 
