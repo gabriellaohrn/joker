@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
