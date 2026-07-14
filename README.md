@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
