@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> I used to be a banker, but I lost interest.
 
 <!-- END -->
 
