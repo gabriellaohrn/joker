@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
