@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
