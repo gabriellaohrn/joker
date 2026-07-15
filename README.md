@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
