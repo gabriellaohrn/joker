@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
