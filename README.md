@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
