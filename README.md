@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
