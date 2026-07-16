@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
