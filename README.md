@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 <!-- END -->
 
