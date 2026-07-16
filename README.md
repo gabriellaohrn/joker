@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 <!-- END -->
 
