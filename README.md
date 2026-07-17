@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 <!-- END -->
 
