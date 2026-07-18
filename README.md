@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
