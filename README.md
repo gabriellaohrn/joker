@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 <!-- END -->
 
