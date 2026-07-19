@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish with no eyes? A fsh.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
