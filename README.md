@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
