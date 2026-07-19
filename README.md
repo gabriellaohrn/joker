@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
