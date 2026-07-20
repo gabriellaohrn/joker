@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
