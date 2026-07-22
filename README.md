@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
