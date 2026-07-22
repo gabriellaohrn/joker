@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Whats a penguins favorite relative? Aunt Arctica.
 
 <!-- END -->
 
