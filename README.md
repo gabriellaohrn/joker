@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> What is the leading cause of dry skin? Towels
 
 <!-- END -->
 
