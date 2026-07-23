@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
