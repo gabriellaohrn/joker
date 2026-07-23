@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
