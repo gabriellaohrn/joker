@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 <!-- END -->
 
