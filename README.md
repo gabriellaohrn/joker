@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
