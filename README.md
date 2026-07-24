@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
