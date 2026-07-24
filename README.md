@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
