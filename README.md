@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
