@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
