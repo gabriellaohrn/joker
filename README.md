@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
