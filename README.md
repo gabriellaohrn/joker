@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
