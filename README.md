@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
