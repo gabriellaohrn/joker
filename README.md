@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> What did the fish say when it swam into a wall? Damn!
 
 <!-- END -->
 
