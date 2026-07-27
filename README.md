@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> This is my step ladder. I never knew my real ladder.
 
 <!-- END -->
 
