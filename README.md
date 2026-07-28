@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
