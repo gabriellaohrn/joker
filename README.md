@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
