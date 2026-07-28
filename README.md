@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
