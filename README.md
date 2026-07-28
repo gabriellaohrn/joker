@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> What do you call an Argentinian with a rubber toe? Roberto
 
 <!-- END -->
 
