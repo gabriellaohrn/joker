@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
