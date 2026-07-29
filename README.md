@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
