@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
