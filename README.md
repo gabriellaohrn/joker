@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
