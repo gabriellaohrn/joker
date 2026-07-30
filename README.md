@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> Geology rocks, but Geography is where it's at!
 
 <!-- END -->
 
