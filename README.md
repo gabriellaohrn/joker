@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
