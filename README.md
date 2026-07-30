@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
