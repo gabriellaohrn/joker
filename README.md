@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> How does the moon cut his hair? Eclipse it.
 
 <!-- END -->
 
