@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
