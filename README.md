@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
