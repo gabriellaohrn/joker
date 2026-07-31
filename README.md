@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
