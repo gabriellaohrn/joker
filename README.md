@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
