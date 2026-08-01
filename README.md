@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
