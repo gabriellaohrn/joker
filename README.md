@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
