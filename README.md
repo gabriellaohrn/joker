@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
