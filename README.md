@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
