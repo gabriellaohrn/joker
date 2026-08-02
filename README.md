@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
