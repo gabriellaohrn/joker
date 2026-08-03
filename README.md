@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
