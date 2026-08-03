@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
