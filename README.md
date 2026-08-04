@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
