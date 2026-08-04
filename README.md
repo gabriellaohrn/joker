@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
