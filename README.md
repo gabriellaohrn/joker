@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
