@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
