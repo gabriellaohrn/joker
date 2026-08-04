@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
