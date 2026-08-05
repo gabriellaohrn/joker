@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
