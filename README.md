@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
