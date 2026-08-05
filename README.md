@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
