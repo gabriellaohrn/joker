@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
