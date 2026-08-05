@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
