@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
