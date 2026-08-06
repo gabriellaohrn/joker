@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
