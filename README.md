@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
