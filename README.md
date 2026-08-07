@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 <!-- END -->
 
