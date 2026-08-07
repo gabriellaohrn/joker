@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
