@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
