@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
