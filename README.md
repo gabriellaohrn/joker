@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
