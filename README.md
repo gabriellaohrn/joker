@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
