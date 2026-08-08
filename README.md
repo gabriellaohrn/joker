@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
