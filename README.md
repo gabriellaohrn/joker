@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
