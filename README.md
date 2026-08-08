@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
