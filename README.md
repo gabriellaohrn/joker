@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 <!-- END -->
 
