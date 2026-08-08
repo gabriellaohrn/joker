@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
