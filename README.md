@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
