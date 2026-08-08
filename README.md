@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
