@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
