@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 <!-- END -->
 
