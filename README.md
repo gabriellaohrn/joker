@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+> I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 <!-- END -->
 
