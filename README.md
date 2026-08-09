@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
