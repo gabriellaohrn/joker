@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
 
 <!-- END -->
 
