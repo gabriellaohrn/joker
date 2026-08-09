@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
