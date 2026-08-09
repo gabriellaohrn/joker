@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
