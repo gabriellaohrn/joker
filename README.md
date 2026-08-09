@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
