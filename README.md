@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
