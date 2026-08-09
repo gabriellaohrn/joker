@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
