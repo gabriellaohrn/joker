@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
