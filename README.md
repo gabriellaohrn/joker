@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
