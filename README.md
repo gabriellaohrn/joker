@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
