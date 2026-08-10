@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> My sea sickness comes in waves.
 
 <!-- END -->
 
