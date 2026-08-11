@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
