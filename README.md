@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
