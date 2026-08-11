@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
