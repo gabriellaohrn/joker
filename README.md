@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
