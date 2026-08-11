@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
