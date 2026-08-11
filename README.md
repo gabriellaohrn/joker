@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
