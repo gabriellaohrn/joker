@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
