@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
