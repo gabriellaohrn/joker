@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 <!-- END -->
 
