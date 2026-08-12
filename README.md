@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
