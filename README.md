@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
