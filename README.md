@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
