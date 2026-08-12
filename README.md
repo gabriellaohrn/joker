@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
