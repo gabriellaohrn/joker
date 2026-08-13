@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
