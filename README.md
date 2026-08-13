@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
 
 <!-- END -->
 
