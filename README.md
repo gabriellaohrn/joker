@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
