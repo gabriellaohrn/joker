@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
