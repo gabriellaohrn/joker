@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
