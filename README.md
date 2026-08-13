@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
