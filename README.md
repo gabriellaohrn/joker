@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
