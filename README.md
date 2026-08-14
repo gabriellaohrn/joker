@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
