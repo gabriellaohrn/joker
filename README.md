@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
