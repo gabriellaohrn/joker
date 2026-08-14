@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
