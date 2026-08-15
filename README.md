@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
