@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
