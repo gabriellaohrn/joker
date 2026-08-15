@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 <!-- END -->
 
