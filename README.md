@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
