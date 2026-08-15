@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
