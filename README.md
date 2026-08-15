@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 <!-- END -->
 
