@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 <!-- END -->
 
