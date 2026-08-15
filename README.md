@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
