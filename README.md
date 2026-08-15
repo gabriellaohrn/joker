@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
