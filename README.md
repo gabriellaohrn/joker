@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
