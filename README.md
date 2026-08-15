@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
