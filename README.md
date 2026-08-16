@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
