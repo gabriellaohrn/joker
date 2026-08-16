@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
