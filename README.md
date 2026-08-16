@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
