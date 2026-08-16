@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
