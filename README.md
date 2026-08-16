@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
