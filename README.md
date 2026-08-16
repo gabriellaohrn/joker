@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
