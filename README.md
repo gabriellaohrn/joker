@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
