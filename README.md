@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
