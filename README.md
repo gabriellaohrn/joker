@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 <!-- END -->
 
