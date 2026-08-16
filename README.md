@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 <!-- END -->
 
