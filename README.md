@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
