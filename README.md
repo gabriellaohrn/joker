@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
