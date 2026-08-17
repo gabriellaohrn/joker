@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
+> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 <!-- END -->
 
