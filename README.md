@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
