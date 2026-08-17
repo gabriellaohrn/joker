@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
