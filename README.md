@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
