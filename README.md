@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 <!-- END -->
 
