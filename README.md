@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 <!-- END -->
 
