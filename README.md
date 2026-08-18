@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
