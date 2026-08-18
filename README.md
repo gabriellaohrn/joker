@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
