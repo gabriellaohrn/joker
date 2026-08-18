@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
