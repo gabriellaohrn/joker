@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
