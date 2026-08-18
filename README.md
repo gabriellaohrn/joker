@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dinosaur loves to sleep? A stega-snore-us.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
