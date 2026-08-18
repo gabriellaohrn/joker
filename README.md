@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
