@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
