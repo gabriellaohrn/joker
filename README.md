@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
