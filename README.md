@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
