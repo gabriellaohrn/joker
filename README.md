@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
