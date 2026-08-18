@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
