@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
