@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+> I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
 <!-- END -->
 
