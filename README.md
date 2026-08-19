@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
+> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 <!-- END -->
 
