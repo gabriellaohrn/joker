@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
