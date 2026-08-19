@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
