@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
