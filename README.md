@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
