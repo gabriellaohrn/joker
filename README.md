@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
