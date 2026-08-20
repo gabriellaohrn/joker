@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 <!-- END -->
 
