@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
