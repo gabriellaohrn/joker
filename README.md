@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
