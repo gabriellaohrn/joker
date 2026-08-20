@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
 
 <!-- END -->
 
