@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 <!-- END -->
 
