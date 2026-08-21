@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
