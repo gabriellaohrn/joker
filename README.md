@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
