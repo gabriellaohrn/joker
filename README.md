@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
