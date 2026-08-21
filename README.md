@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 <!-- END -->
 
