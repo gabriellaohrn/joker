@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
