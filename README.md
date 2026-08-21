@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
