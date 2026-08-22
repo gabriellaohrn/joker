@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
