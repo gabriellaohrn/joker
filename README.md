@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
