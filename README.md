@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
