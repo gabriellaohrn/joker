@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
