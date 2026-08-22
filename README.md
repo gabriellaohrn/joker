@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 <!-- END -->
 
