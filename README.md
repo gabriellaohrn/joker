@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
