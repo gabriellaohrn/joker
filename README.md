@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
