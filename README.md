@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
