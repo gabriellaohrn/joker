@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
