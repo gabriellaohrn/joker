@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ever wondered why bees hum? It's because they don't know the words.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
