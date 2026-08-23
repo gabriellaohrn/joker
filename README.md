@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 <!-- END -->
 
