@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
