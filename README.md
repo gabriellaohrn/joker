@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
