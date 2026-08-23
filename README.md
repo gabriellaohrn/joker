@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
