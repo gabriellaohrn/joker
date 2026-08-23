@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
