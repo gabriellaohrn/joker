@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
