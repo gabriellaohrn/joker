@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
