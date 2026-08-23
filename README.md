@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
