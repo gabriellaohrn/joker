@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
