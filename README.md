@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> Why did the coffee file a police report? It got mugged.
 
 <!-- END -->
 
