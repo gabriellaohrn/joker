@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
