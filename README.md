@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
 
 <!-- END -->
 
