@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
