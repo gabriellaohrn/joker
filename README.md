@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
