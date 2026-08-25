@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
