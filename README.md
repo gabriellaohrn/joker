@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
