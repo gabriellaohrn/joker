@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
