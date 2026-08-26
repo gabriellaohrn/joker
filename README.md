@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
