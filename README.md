@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
