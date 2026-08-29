@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
