@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
