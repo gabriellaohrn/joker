@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
