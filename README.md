@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
