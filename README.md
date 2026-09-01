@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
