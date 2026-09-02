@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
