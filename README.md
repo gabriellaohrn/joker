@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> What do you call a careful wolf? Aware wolf.
 
 <!-- END -->
 
