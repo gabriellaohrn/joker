@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
