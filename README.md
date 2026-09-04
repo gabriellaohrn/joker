@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 <!-- END -->
 
