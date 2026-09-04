@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 <!-- END -->
 
