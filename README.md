@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 
 <!-- END -->
 
