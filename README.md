@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
