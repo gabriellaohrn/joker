@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
