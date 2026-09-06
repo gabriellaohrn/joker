@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
