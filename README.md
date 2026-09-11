@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
