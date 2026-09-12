@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
