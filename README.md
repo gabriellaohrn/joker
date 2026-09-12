@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
