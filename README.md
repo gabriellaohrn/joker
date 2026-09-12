@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
