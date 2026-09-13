@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 <!-- END -->
 
