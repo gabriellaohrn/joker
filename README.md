@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
