@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
 
 <!-- END -->
 
