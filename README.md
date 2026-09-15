@@ -4,8 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+> Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 <!-- END -->
 
