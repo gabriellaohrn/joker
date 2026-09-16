@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
