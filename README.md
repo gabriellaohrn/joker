@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
