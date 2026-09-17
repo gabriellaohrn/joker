@@ -4,13 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Wife: Honey Iâm pregnant.
-
-Me: Wellâ¦. what do we do now?
-
-Wife: Well, I guess we should go to a baby doctor.
-
-Me: Hm.. I think Iâd be a lot more comfortable going to an adult doctor.
+> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
 
 <!-- END -->
 
