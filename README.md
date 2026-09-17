@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
