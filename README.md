@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
