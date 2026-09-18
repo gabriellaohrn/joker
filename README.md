@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
