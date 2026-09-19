@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
