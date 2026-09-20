@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> What do you call an Argentinian with a rubber toe? Roberto
 
 <!-- END -->
 
