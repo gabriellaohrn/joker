@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
