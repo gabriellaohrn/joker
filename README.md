@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
