@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
