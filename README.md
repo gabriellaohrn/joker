@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
+> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 <!-- END -->
 
