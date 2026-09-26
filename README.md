@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
