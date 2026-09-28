@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> I fear for the calendar, its days are numbered.
+
 
 <!-- END -->
 
