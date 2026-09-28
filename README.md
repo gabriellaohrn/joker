@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
