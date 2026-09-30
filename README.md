@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
