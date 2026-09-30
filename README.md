@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
