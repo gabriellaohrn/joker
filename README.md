@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
