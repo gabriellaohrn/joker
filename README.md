@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
