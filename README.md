@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> What do prisoners use to call each other? Cell phones.
 
 <!-- END -->
 
