@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
