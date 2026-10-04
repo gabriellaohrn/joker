@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
