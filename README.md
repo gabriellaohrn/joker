@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
