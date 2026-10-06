@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 <!-- END -->
 
