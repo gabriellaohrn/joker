@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
