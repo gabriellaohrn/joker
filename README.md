@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the feline fail the lie detector test? Because he be lion.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
