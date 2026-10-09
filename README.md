@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
