@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
