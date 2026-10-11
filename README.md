@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
