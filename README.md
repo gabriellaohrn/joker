@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
