@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
