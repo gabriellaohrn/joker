@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
