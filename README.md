@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
