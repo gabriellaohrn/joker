@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
