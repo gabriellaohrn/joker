@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
