@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
