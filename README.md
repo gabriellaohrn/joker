@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
