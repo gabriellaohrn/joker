@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> What do birds give out on Halloween? Tweets.
 
 <!-- END -->
 
