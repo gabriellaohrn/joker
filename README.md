@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
