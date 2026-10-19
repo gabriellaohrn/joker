@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
