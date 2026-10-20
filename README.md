@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
