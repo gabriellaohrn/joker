@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
