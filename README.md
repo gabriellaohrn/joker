@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 <!-- END -->
 
