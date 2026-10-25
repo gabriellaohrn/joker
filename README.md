@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the big flower say to the littler flower? Hi, bud!
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
