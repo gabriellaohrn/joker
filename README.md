@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
