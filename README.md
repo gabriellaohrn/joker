@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
