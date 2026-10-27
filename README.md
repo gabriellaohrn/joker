@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 <!-- END -->
 
