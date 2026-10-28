@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
