@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
