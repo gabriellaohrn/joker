@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
