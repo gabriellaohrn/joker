@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
