@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
