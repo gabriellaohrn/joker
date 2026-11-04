@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was raining cats and dogs the other day. I almost stepped in a poodle.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
