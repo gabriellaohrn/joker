@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
