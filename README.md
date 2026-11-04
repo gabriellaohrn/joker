@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
