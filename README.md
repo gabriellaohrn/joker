@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
