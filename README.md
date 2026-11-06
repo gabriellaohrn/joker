@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
