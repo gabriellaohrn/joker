@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
