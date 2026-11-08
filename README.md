@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
