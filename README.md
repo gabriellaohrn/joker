@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
