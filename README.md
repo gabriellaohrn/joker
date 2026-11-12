@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
