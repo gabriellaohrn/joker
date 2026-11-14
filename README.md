@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
