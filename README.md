@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
