@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
