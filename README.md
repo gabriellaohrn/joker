@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 <!-- END -->
 
