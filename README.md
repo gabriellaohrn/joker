@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
