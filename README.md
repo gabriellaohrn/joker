@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
