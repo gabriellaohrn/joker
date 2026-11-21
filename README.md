@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> I fear for the calendar, its days are numbered.
+
 
 <!-- END -->
 
