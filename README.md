@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
