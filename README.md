@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 <!-- END -->
 
