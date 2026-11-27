@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
